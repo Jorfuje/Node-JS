@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jorfuje",
+      "apellido": "Fuje",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "f5e5"
+    },
+    {
+      "id": "4645",
+      "nombre": "Toledo",
+      "apellido": "Toledo",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Hernández",
+      "promedio": 8.2,
+      "id": "ea38"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "c9c4"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS ",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "0671"
+    },
+    {
+      "nombre": "React ",
+      "duracion": 8,
+      "dificultad": "Intermedia",
+      "id": "a1c8"
+    },
+    {
+      "nombre": "Angular ",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "96a6"
+    }
+  ]
+}

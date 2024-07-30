@@ -1,0 +1,24 @@
+En el mundo del código y la red,
+un nuevo camino vas a emprender.
+Con NodeJS como tu aliado fiel,
+verás cómo el JavaScript empieza a florecer.
+
+En el servidor, te espera un poder,
+sin hilos complicados que debas temer.
+Asíncrono y veloz como un rayo,
+con cada petición, avanzas sin desmayo.
+
+Con NPM, paquetes descubrirás,
+módulos y librerías que utilizarás.
+Express, Mongoose y Socket.io,
+herramientas poderosas para cada proyecto.
+
+No temas al error ni al bug traicionero,
+con paciencia y debug, vencerás al primero.
+Con cada línea, más fuerte serás,
+una maestra de NodeJS pronto te encontrarás.
+
+En esta travesía del backend,
+código limpio y claro siempre mantén.
+Colaborando y aprendiendo sin parar,
+con NodeJS, tu futuro es un lugar sin igual.

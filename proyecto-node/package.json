@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-node",
+  "version": "0.0.1",
+  "description": "Proyecto Node para introducción",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "jorfuje",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env-var": "^7.5.0"
+  }
+}
