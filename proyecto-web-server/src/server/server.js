@@ -1,11 +1,15 @@
 // Importa el módulo express
-const express = require('express');
+// const express = require('express');
+
+import express  from 'express';
 
 // Importa el módulo path para manejar rutas de archivos
-const path = require('path');
+// const path = require('path');
+
+import path from 'path';
 
 // Función que inicia el servidor
-const startServer = (options) => {
+export const startServer = (options) => {
     // Desestructura las opciones para obtener el puerto y la ruta pública
     const { port, public_path = 'public' } = options;
 
@@ -30,6 +34,6 @@ const startServer = (options) => {
 }
 
 // Exporta la función startServer para que pueda ser usada en otros archivos
-module.exports = {
-    startServer
-};
+// module.exports = {
+//     startServer
+// };

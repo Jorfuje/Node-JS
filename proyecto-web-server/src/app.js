@@ -1,8 +1,12 @@
 // Importa las variables de entorno desde el archivo de configuración
-const { envs } = require('./config/env');
+// const { envs } = require('./config/env');
+
+import { envs } from './config/env.js';
 
 // Importa la función que inicia el servidor desde el archivo correspondiente
-const { startServer } = require('./server/server');
+// const { startServer } = require('./server/server');
+
+import { startServer } from './server/server.js';
 
 // Función principal que se encarga de iniciar el servidor
 const main = () => {
